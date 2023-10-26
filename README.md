@@ -1,4 +1,4 @@
-  ![Intro](https://github.com/Akhil130604/Akhil130604/blob/main/1121807.jpg)
+  ![Intro](https://github.com/MrHobbist/MrHobbist/blob/main/intro.jpg)
 -  Hi, I’m a Hobbist
    I’m interested in microcontroller desiging and coding(basically anything that involves electronics and coding)
    I’m currently learning embedded c,keli and various development board languages
